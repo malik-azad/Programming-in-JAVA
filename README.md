@@ -1,6 +1,6 @@
 # Programming-in-JAVA
 
-Welcome to the **Programming-in-JAVA** repository!  This repository helps in understanding the core concepts of Java programming through a variety of example programs. Additionally, I will soon be adding comprehensive notes to further enhance the study material 
+Welcome to the **Programming-in-JAVA**  This repository helps in understanding the core concepts of Java programming through a variety of example programs. Additionally, I will soon be adding comprehensive notes to further enhance the study material 
 
 ## What's Inside
 
