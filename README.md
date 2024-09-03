@@ -9,7 +9,7 @@ This repository contains a collection of Java programs that demonstrate fundamen
 ## Upcoming Features
 
 - **📚 Notes in PDF format:**  
-  In the near future, we will be adding detailed notes and explanations in PDF format to provide deeper insights into Java concepts and assist with your learning journey.
+  In the near future, I will be adding detailed notes and explanations in PDF format to provide deeper insights into Java concepts and assist with your learning journey.
 
 ## How to Use
 
