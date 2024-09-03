@@ -1,10 +1,10 @@
 # Programming-in-JAVA
 
-Welcome to the **Programming-in-JAVA** repository! 🎉 This repository helps in understanding the core concepts of Java programming through a variety of example programs. Additionally, I will soon be adding comprehensive notes to further enhance the study material 
+Welcome to the **Programming-in-JAVA** repository!  This repository helps in understanding the core concepts of Java programming through a variety of example programs. Additionally, I will soon be adding comprehensive notes to further enhance the study material 
 
 ## What's Inside
 
-This repository contains a collection of Java programs that demonstrate fundamental programming concepts. The programs are designed to be straightforward and educational, making it easy for beginners to grasp the basics of Java. ji
+This repository contains a collection of Java programs that demonstrate fundamental programming concepts. The programs are designed to be straightforward and educational, making it easy for beginners to grasp the basics of Java. 
 
 ## Upcoming Features
 
@@ -24,9 +24,10 @@ Contributions are welcome! Whether it's adding new programs, optimizing existing
 Add new programs and send pull request, i will review and accept 
 
 
-## Acknowledgements
+<!-- ## Acknowledgements
 
 A big thanks to everyone who has contributed to this repository and helped make it a valuable resource for learning Java! 😊
+-->
 
 ## About me
 
